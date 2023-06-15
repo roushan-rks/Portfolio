@@ -11,9 +11,9 @@ html, body {
   width: 100%;
   overflow-x: hidden;
 }
-.name1{
+/* .name1{
   color: black;
-}
+} */
 h1,h2,h3 { font-weight: 300; }
 p { line-height: 28px; }
 hr {
